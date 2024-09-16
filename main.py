@@ -142,7 +142,6 @@ def main():
             print("Sonuç bulunamadı.")
 
         # Yeni arama yapmak için döngüye geri dön
-        # Burada kullanıcıya yeni arama yapma isteği sorulmayacak, sadece döngüye geri dönecek
 
 if __name__ == "__main__":
     main()
